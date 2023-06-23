@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abhishek Singh
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate to development feild 
-- 📫 you can contact me through my phone no: 6393510527 
+- 📫 you can contact me through my phone no: 8881608242 
                                 email me on: abhishekcingh1@gmail.com
 
 <!---
